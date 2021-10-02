@@ -1,0 +1,7 @@
+{
+  "name": "anticovid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
